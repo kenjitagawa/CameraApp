@@ -16,14 +16,14 @@
 #define B8_CarteMemEnregistrerPhotos
 
 //Séquence de tests pour la classe Camera
-//#define C1_CameraConstructeur
-//#define C2_CameraInfoSuivante
-//#define C3_CameraFacteurCompression
-//#define C4_CameraCarteMemoire
-//#define C5_CameraPhotoCourante
-//#define C6_CameraTaillePhoto
-//#define C7_CameraPrendrePhoto
-//#define C8_CameraFichierParamètres
+#define C1_CameraConstructeur
+#define C2_CameraInfoSuivante
+#define C3_CameraFacteurCompression
+#define C4_CameraCarteMemoire
+#define C5_CameraPhotoCourante
+#define C6_CameraTaillePhoto
+#define C7_CameraPrendrePhoto
+#define C8_CameraFichierParamètres
 
 using System;
 using AppCamera;
